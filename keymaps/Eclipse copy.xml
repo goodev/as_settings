@@ -1,4 +1,8 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ExportToTextFile" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="alt O" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift control F" />
   </action>
