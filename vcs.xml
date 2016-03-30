@@ -54,6 +54,10 @@
           <option name="url" value="http://gerrit/aosp/platform/packages/apps/Mms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/qklabs/qksms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\git" />
