@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/qklabs/qksms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://yfcheng@gerrit:29418/ticwear/design_support" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\git" />
