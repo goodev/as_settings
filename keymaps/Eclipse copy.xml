@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="control NUMPAD0" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="Git.Reset.In.Log">
+    <keyboard-shortcut first-keystroke="control R" />
+  </action>
   <action id="Mvc.RunTarget" />
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="alt O" />
@@ -13,6 +16,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift control F" />
   </action>
+  <action id="RunToCursor" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt ENTER" />
   </action>
